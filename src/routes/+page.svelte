@@ -30,7 +30,7 @@
     <nav class="px-8 py-8">
         <img class="h-6 w-auto" src="logo.png" alt="TechTPD Logo">
     </nav>
-    <main class="fixed h-full w-full max-w-7xl mx-auto flex-1 flex items-center px-8 text-center">
+    <main class="fixed h-full w-full mx-auto flex-1 flex items-center px-8 text-center">
         <header class="w-full flex items-center flex-col gap-4">
             <h1 class="text-3xl text-gray-400 uppercase font-bold">The site is under construction
                 <span class="dot {showDot[0] && 'visible'}">.</span>
@@ -39,7 +39,7 @@
             </h1>
         </header>
     </main>
-    <footer class="fixed w-full bottom-0 max-w-7xl mx-auto py-2">
+    <footer class="fixed w-full bottom-0 mx-auto py-2">
         <p class="text-gray-600 text-center">Tech TPD. Copyrights {new Date().getFullYear()}</p>
     </footer>
 </div>
