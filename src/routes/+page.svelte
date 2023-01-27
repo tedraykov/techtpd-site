@@ -26,7 +26,7 @@
   animateDots();
 </script>
 
-<div class="h-screen flex flex-col bg-[url(https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg)]">
+<div class="h-screen flex flex-col bg-cover bg-[url(https://tailwindcss.com/_next/static/media/hero-dark@90.dba36cdf.jpg)]">
     <nav class="px-8 py-8">
         <img class="h-6 w-auto" src="logo.png" alt="TechTPD Logo">
     </nav>
