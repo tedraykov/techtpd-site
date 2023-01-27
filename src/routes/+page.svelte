@@ -26,7 +26,7 @@
     animateDots();
 </script>
 
-<main class="bg-gray-900 max-w-7xl mx-auto flex-1 flex items-center">
+<main class="bg-gray-900 max-w-7xl mx-auto flex-1 flex items-center px-8 text-center">
     <header class="w-full flex justify-center">
         <h1 class="text-3xl text-gray-400">The site is under construction
             <span class="dot {showDot[0] && 'visible'}">.</span >
