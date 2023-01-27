@@ -39,8 +39,8 @@
             </h1>
         </header>
     </main>
-    <footer class="max-w-7xl mx-auto py-2">
-        <p class="text-gray-600">Tech TPD. Copyrights {new Date().getFullYear()}</p>
+    <footer class="fixed w-full bottom-0 max-w-7xl mx-auto py-2">
+        <p class="text-gray-600 text-center">Tech TPD. Copyrights {new Date().getFullYear()}</p>
     </footer>
 </div>
 
